@@ -1,2 +1,2 @@
-add https raw/gedit/w04a10_gedit.pac
+add https raw/gedit/w02a10_gedit.pac
 add mod.ini
